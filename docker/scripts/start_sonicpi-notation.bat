@@ -1,0 +1,1 @@
+docker exec -it sonicpi-notation-sonicpi-notation-1 /bin/bash
